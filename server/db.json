@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "username": "asaflanzer",
+      "email": "asaflanzer@gmail.com",
+      "gender": "male",
+      "hobbies": [
+        "Coding",
+        "volleyball",
+        "reading",
+        "coffee"
+      ],
+      "review": 74,
+      "notification": true,
+      "id": 1
+    },
+    {
+      "username": "test user",
+      "email": "test@email.com",
+      "gender": "female",
+      "hobbies": [
+        "volleyball",
+        "coffee"
+      ],
+      "review": 20,
+      "notification": true,
+      "id": 2
+    }
+  ]
+}
